@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GitScene.unity
+- path: C:/Users/student/Documents/GitHub/gamelab202lab2/game202lab2/Assets/game202lab2.unity
   isLoaded: 1
   isActive: 1
